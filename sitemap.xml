@@ -18,20 +18,27 @@
     <loc>https://chatgptfree.li/blog/index.html</loc>
     <changefreq>weekly</changefreq>
         <priority>0.2</priority>
-    <lastmod>2023-09-05</lastmod>
+    <lastmod>2023-09-11</lastmod>
   </url>
 
+   <url>
+    <loc>https://chatgptfree.li/blog/chat-gpt-free.html</loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    <lastmod>2023-09-11</lastmod>
+  </url>
+  
   <url>
     <loc>https://chatgptfree.li/blog/Business-Automation-with-ChatGPT.html</loc>
     <changefreq>weekly</changefreq>
-        <priority>0.05</priority>
+        <priority>0.005</priority>
     <lastmod>2023-09-05</lastmod>
   </url>
   
   <url>
     <loc>https://chatgptfree.li/blog/contact.html</loc>
     <changefreq>weekly</changefreq>
-        <priority>0.05</priority>
+        <priority>0.005</priority>
     <lastmod>2023-09-05</lastmod>
    
   </url>  
@@ -39,21 +46,21 @@
   <url>
     <loc>https://chatgptfree.li/blog/creative-writing-with-ChatGPT.html</loc>
     <changefreq>weekly</changefreq>
-        <priority>0.05</priority>
+        <priority>0.005</priority>
     <lastmod>2023-09-05</lastmod>
   </url>
 
    <url>
     <loc>https://chatgptfree.li/blog/Entertainment-and-Games-with-ChatGPT.html</loc>
     <changefreq>weekly</changefreq>
-        <priority>0.05</priority>
+        <priority>0.005</priority>
     <lastmod>2023-09-05</lastmod>
   </url>
 
    <url>
     <loc>https://chatgptfree.li/blog/Personal-Therapy-with-ChatGPT.html</loc>
     <changefreq>weekly</changefreq>
-        <priority>0.05</priority>
+        <priority>0.005</priority>
     <lastmod>2023-09-05</lastmod>
   </url>
  
